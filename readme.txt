@@ -8,7 +8,7 @@ Stable tag: 1.0.5
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-توسط این افزونه می‌توانید به راحتی زمینه‌های دلخواه را کنترل، بروزرسانی و فراخوانی کنید ...
+به راحتی زمینه‌های دلخواه را کنترل، بروزرسانی و فراخوانی کنید ...
 
 == Description ==
 
@@ -16,6 +16,9 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 `<?php if (function_exists('get_rootitr')){ ?>
 	<h3><?= get_rootitr('rootitr') ?></h3>
+	<h1><?php the_title(); ?></h1>
+	<p><?php the_excerpt(); ?></p>
+	<small><?= get_rootitr('manba') ?></small>
 <?php } ?>`
 
 == Installation ==
