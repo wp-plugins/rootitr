@@ -14,6 +14,10 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 توسط این افزونه می‌توانید به راحتی زمینه‌های دلخواه را کنترل، بروزرسانی و فراخوانی کنید ...
 
+`<?php if (function_exists('get_rootitr')){ ?>
+	<h3><?= get_rootitr('rootitr') ?></h3>
+<?php } ?>`
+
 == Installation ==
 
 1. به برگه 'افزونه‌ها' در مدیریت وردپرس رجوع کرده و بر روی 'افزودن' کلیک کنید
