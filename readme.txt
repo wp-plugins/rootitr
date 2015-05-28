@@ -1,4 +1,4 @@
- === روتیتر ===
+ === Rootitr ===
 Contributors: nipoto
 Donate link: http://ideyeno.ir
 Tags: news, magazine, خبری, خبرگزاری, مجله, وردپرس
