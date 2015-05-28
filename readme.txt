@@ -1,7 +1,7 @@
  === Rootitr ===
 Contributors: nipoto
 Donate link: http://ideyeno.ir
-Tags: news, magazine, خبری, خبرگزاری, مجله, وردپرس
+Tags: news, magazine, خبری, خبرگزاری, مجله, وردپرس, rootitr, روتیتر
 Requires at least: 3.0.1
 Tested up to: 4.2.2
 Stable tag: 1.0.5
