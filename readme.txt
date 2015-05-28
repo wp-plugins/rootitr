@@ -12,6 +12,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
+= روتیتر =
 توسط این افزونه می‌توانید به راحتی زمینه‌های دلخواه را کنترل، بروزرسانی و فراخوانی کنید ...
 
 `<?php if (function_exists('get_rootitr')){ ?>
